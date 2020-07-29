@@ -4,7 +4,5 @@ Sou Marilzon de Sousa (🇧🇷), estou em busca de oportunidades como **Desenvo
 
 Atualmente estou estudando muito sobre Javascript e ReactJS.
 
-Perfil Profissional:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marilzon)](https://www.linkedin.com/in/marilzon)
+Perfil Profissional: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marilzon)](https://www.linkedin.com/in/marilzon)
 
