@@ -2,7 +2,7 @@
 
 Sou Marilzon de Sousa (🇧🇷), estou em busca de oportunidades como **Desenvolvedor Front-end** . 
 
-Atualmente estou estudando muito em torno da stack NodeJS, ReactJS, React-Native...
+Atualmente estou estudando a stack NodeJS, ReactJS, React-Native...
 
 https://marilzon.github.io/maril-dev/
 
