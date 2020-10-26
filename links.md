@@ -5,7 +5,7 @@
  - App Ideas: https://github.com/florinpop17/app-ideas
 
 # Padrões de commits:
- - Create – Quando é desenvolvimento de uma nova funcionalidade.
+ - Feature – Quando é desenvolvimento de uma nova funcionalidade.
  - Fix – Quando se trata de uma correção de bug.
  - Update – Quando se trata somente de uma alteração na documentação, ou atualização.
  - Delete: Quando um trecho ou pasta é deletada.
