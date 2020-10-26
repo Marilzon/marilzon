@@ -8,4 +8,4 @@
  - Create – Quando é desenvolvimento de uma nova funcionalidade.
  - Fix – Quando se trata de uma correção de bug.
  - Update – Quando se trata somente de uma alteração na documentação, ou atualização.
- - Delete: Quando um trexo ou pasta é deletada.
+ - Delete: Quando um trecho ou pasta é deletada.
