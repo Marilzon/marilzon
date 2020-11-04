@@ -1,6 +1,6 @@
 ### Eae tranquilo! 😁
 
-Sou Marilzon de Sousa (🇧🇷), estou em busca de oportunidades como **Desenvolvedor Web** . 
+Sou Marilzon de Sousa (🇧🇷), estou em busca de oportunidades como **Desenvolvedor Web**. 
 
 Atualmente estou estudando as stacks NodeJS, ReactJS, React-Native...
 
