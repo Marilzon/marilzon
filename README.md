@@ -1,6 +1,6 @@
 ### Eae tranquilo! 😁
 
-## Sou Marilzon de Sousa (🇧🇷), Desenvolvedor Front End, Curso Analise e Densenvolvimento de Sistemas e o Bootcamp da RocketSeat focado em ReactJS.
+## Sou Marilzon de Sousa (🇧🇷), Desenvolvedor Front End, curso Analise e Densenvolvimento de Sistemas e o bootcamp da RocketSeat focado em ReactJS.
  
  > [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marilzon)](https://www.linkedin.com/in/marilzon) 
  > [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://marilzon.github.io/maril-dev/)](https://marilzon.github.io/maril-dev/) 
