@@ -1,6 +1,6 @@
 ### Eae tranquilo! 😁
 
-## Sou Marilzon de Sousa (🇧🇷), curso Analise e Densenvolvimento de Sistemas e minhas principais stacks envolvem desenvolvimento Javascript e Segurança da Informação.
+## Sou Marilzon de Sousa (🇧🇷), curso Analise e Densenvolvimento de Sistemas e estou construindo solidos conheçimentos em Desenvolvimento Javascript, Tecnologia Blockchain e topicos de Segurança da Informação.
 
 <center>
 <table>
