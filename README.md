@@ -1,6 +1,6 @@
 ### Eae tranquilo! 😁
 
-## Sou Marilzon de Sousa (🇧🇷), curso Analise e Densenvolvimento de Sistemas e estou construindo solidos conheçimentos em Desenvolvimento Javascript, Desenvolvimento Blockchain e tópicos de Segurança da Informação.
+## Sou Marilzon de Sousa (🇧🇷), curso Analise e Densenvolvimento de Sistemas e estou construindo solidos conheçimentos em Desenvolvimento Backend, Desenvolvimento Blockchain e tópicos de Segurança da Informação.
 
 <center>
 <table>
