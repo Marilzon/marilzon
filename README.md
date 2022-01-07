@@ -5,8 +5,8 @@
 <center>
 <table>
   <tr>
-    <td><img align="left" padding-right="8px" src=https://github-readme-stats.vercel.app/api?username=marilzon&show_icons=true ></td>
-    <td><img align="left" padding-right="8px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=marilzon&show_icons=true&layout=compact></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=marilzon&show_icons=true ></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=marilzon&show_icons=true&layout=compact></td>
   </tr>  
 </table>
 </center>
