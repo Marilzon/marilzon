@@ -1,6 +1,6 @@
 ### Eae tranquilo! 😁
 
-## Sou Marilzon de Sousa (🇧🇷), curso Analise e Densenvolvimento de Sistemas e estou construindo sólidos conheçimentos em Desenvolvimento Javascript e Python.
+## Sou Marilzon de Sousa (🇧🇷), curso Analise e Densenvolvimento de Sistemas e estou construindo sólidos conheçimentos em Analise de Dados e Desenvolvimento Backend.
 
 ### Projetos: 
     
