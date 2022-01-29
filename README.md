@@ -13,9 +13,6 @@
  Airplane Game: Jogo de resgate e combate a helicopteros inimigos feito com Javascript HTML5 e CSS3
   - https://marilzon.github.io/airplane-game/
 
- Coin Scraping: Script em Python que realiza retira de um site as informações dos 40 Tokens com maior volume de marcado 
-  - https://github.com/Marilzon/coin-scraping
-
 <hr/>
 
 <center>
