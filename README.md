@@ -3,7 +3,9 @@
 ## Sou Marilzon de Sousa (🇧🇷), curso Analise e Densenvolvimento de Sistemas e estou construindo sólidos conheçimentos em Analise de Dados e Desenvolvimento Backend.
 
 ### Projetos: 
-    
+ Python quantitativo para mercado financeiro: (EM DESENVOLVIMENTO) 
+  - https://github.com/Marilzon/quantitative-finances
+ 
  handleArrays: Projeto que demonstra manipulações de arrays com funções Javascript 
   - https://marilzon.github.io/handlerArrays/
 
