@@ -4,7 +4,7 @@
 
 ### Projetos: 
  Python quantitativo para mercado financeiro: (EM DESENVOLVIMENTO) 
-  - https://github.com/Marilzon/quantitative-finances
+  - https://github.com/Marilzon/quantitative-finance
  
  handleArrays: Projeto que demonstra manipulações de arrays com funções Javascript 
   - https://marilzon.github.io/handlerArrays/
