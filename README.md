@@ -1,6 +1,6 @@
 ### Eae tranquilo! 😁
 
-## Sou Marilzon de Sousa (🇧🇷), curso Analise e Densenvolvimento de Sistemas e estou construindo sólidos conheçimentos em Analise de Dados e Desenvolvimento Backend.
+## Sou Marilzon de Sousa (🇧🇷), curso Analise e Densenvolvimento de Sistemas e estou construindo sólidos conheçimentos em Ciência de dados e Desenvolvimento Python.
 
 ### Projetos: 
  Python quantitativo para mercado financeiro: (EM DESENVOLVIMENTO) 
