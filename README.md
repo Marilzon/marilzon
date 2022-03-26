@@ -6,10 +6,6 @@ Focado e determinado, estou em formação para ser Desenvolvedor Web FULLSTACK, 
  - Banco de dados
  - Javascript
  - Python
- - Flask
- - Django
- - ReactJS
- - Typescript
 
 # Projetos: 
  :ballot_box_with_check: Python quantitativo para mercado financeiro: (EM DESENVOLVIMENTO) 
