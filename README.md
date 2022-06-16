@@ -1,6 +1,6 @@
 ### Eae tranquilo! 😁
 
-Focado e determinado, estou em formação para ser Engenheiro de Software, atualmente adquirindo conhecimento em Desenvolvimento com C++ e Python, busco ser um ótimo profissional com as principais ferramentas deste mercado.
+Focado e determinado, estou em formação para ser Cientista de Dados, atualmente adquirindo conhecimento em Desenvolvimento Javascript com Python, busco ser um ótimo profissional com as principais ferramentas deste mercado.
 
 <br/> :computer: &nbsp; Minhas principais Stacks:  
  - Banco de dados
