@@ -1,11 +1,12 @@
 ### Eae tranquilo! 😁
+Sou Desenvolvedor FullStack com bastante conheçimento em banco de dados, atualmente trabalho com Javascript, Python e postgreSQL, busco ser um profissional extremamente produtivo e atualizado.
 
-Focado e determinado, estou em formação para ser Cientista de Dados, atualmente adquirindo conhecimento em Desenvolvimento Javascript com Python, busco ser um ótimo profissional com as principais ferramentas deste mercado.
-
-<br/> :computer: &nbsp; Minhas principais Stacks:  
- - Banco de dados
- - Javascript
- - Python
+## 💻 Meus principais conhecimentos:
+- HTML5, CSS3: Avançado 🔥
+- Banco de dados: Avançado🔥
+- Javascript: Intermediário 🧠
+- Python: Intermediário 🧠
+- Cloud: Básico 👨‍💻
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marilzon&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marilzon de Sousa github stats" /> 
