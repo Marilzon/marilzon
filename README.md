@@ -1,6 +1,3 @@
-### Eae tranquilo! 😁
-Sou Desenvolvedor FullStack com bastante conheçimento em banco de dados, atualmente trabalho com Javascript, Python e postgreSQL, busco ser um profissional extremamente produtivo e atualizado.
-
 ## 💻 Meus principais conhecimentos:
 - HTML5, CSS3: Avançado 🔥
 - Banco de dados: Avançado🔥
