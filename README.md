@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marilzon&theme=onedark" alt="marilzon" /></a> </p>
 
-- 🔭 Atualmente trabalho com **ETL com PostgreSQL e Desenvolvimento Front-End com JS, HTML, CSS, Javascript.**
+- 🔭 Atualmente trabalho com **ETL com PostgreSQL e Desenvolvimento Front-End com HTML5, CSS3 e Javascript.**
 
-- 🌱 Estou aprendendo **ReactJS, VueJS e Programação funcional**
+- 🌱 Estou aprendendo **ReactJS, VueJS e Boas praticas de arquitetura front-end**
 
 - 💬 Fale comigo por **maxmaril@hotmail.com**
 
