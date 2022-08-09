@@ -9,7 +9,7 @@
 
 - 💬 Fale comigo por **maxmaril@hotmail.com**
 
-- 📄 Meu perfil profissional [linkedin/in/Marilzon](linkedin/in/Marilzon)
+- 📄 Meu perfil profissional [linkedin/in/Marilzon](https://www.linkedin.com/in/marilzon/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
