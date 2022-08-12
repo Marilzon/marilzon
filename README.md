@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Sou Marilzon de Sousa</h1>
 <h3 align="center">Consultor de BUSINESS INTELLIGENCE | Densenvolvedor Front-End</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marilzon&theme=onedark" alt="marilzon" /></a> </p>
+## Minhas ultimas atividades
 
 - 🔭 Atualmente trabalho realizando **ETL em bases PostgreSQL e Desenvolvimento Front-End com HTML5, CSS3 e Javascript.**
 
@@ -19,4 +19,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marilzon&" alt="marilzon" />
 </p>
-
