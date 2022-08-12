@@ -3,7 +3,7 @@
 
 ## Minhas ultimas atividades
 
-[![Marilzon Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marilzon&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&time_range=last_year)](https://wakatime.com/@Marilzon)
+[![Marilzon Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marilzon&langs_count=5&hide=json,properties,stylus&custom_title=Linguagens%20mais%20usadas&theme=dark&time_range=last_year)](https://wakatime.com/@Marilzon)
 
 - 🔭 Atualmente trabalho realizando **ETL em bases PostgreSQL e Desenvolvimento Front-End com HTML5, CSS3 e Javascript.**
 
