@@ -12,3 +12,5 @@
 - 💬 Fale comigo por **maxmaril@hotmail.com**
 
 - 📄 Meu perfil profissional [linkedin/in/Marilzon](https://www.linkedin.com/in/marilzon/)
+
+- 📄 Confira meus projetos na aba Pinner abaixo!
