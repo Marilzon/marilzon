@@ -13,4 +13,4 @@
 
 - 📄 Meu perfil profissional [linkedin/in/Marilzon](https://www.linkedin.com/in/marilzon/)
 
-- 📄 Confira meus projetos na aba Pinner abaixo!
+- 📄 Confira meus projetos na aba Pinned abaixo!
