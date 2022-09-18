@@ -1,5 +1,5 @@
 <h1 align="left">Olá, Sou Marilzon de Sousa</h1>
-<h3 align="left">Consultor de BUSINESS INTELLIGENCE | Densenvolvedor Front-End</h3>
+<h3 align="left">Consultor de BUSINESS INTELLIGENCE | Densenvolvedor Javascript</h3>
 
 ## O que ando codando?! 💻
 
