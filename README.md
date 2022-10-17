@@ -5,9 +5,9 @@
 
 [![Marilzon Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marilzon&langs_count=5&hide=json,properties,stylus&custom_title=Linguagens%20mais%20usadas&theme=dark&time_range=last_year)](https://wakatime.com/@Marilzon)
 
-- 🔭 Atualmente trabalho realizando **ETL em bases PostgreSQL e Desenvolvimento Front-End com HTML5, CSS3 e Javascript.**
+- 🔭 Atualmente trabalho realizando **ETL em bases PostgreSQL e Desenvolvimento Front-End com diferentes bibliotecas com base em demanda.**
 
-- 🌱 Estou aprendendo **ReactJS, VueJS e Boas praticas de arquitetura front-end**
+- 🌱 Tecnologias mais usadas: **ReactJS, VueJS, e muito code review**
 
 - 💬 Fale comigo por **maxmaril@hotmail.com**
 
