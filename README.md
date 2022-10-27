@@ -3,11 +3,11 @@
 
 ## O que ando codando?! 💻
 
-[![Marilzon Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marilzon&langs_count=5&hide=json,properties,stylus&custom_title=Linguagens%20mais%20usadas&theme=dark&time_range=last_year)](https://wakatime.com/@Marilzon)
+[![Marilzon Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marilzon&langs_count=5&hide=json,properties,stylus&custom_title=Ultimas%20tecnologias%20usadas&theme=dark&time_range=last_year)](https://wakatime.com/@Marilzon)
 
 - 🔭 Atualmente trabalho realizando **ETL em bases PostgreSQL e Desenvolvimento Front-End com diferentes bibliotecas com base em demanda.**
 
-- 🌱 Tecnologias mais usadas: **ReactJS, VueJS e muito Javascript**
+- 🌱 Tecnologias que mais gosto de usar: **ReactJS, VueJS e muito Javascript**
 
 - 💬 Fale comigo por **maxmaril@hotmail.com**
 
