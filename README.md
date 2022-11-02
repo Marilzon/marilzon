@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalho realizando **ETL em bases PostgreSQL e Desenvolvimento Front-End com diferentes bibliotecas com base em demanda.**
 
-- 🌱 Tecnologias que mais gosto de usar: **ReactJS, VueJS e muito Javascript**
+- 🌱 Tecnologias que mais gosto de usar: **AngularJS2 +, ReactJS, VueJS e NodeJS**
 
 - 💬 Fale comigo por **maxmaril@hotmail.com**
 
