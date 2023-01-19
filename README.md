@@ -4,9 +4,7 @@
 
 [![Marilzon Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marilzon&langs_count=5&hide=json,properties,stylus&custom_title=O%20que%20ando%20codando!&theme=dark&time_range=last_year)](https://wakatime.com/@Marilzon)
 
-- 🔭 Atualmente trabalho realizando **ETL em bases PostgreSQL e Desenvolvimento Front-End com diferentes bibliotecas com base em demanda.**
-
-- 🌱 Tecnologias que mais gosto de usar: Angular, ReactJS, VueJS.
+- 🌱 Tecnologias que mais gosto de usar: NodeJS, Golang, ReactJS e VueJS.
 
 - 💬 Fale comigo por **maxmaril@hotmail.com**
 
