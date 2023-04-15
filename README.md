@@ -2,6 +2,8 @@
 <h3>Atualmente Consultor de Sistemas</h3>
 <p>Com grande conhecimento em programação Javascript e Python, desenvolvo em ferramentas e bibliotecas paralelas, gosto de estudar novas tecnologias do zero até o avançado nas horas vagas, estou em trajetória para me tornar um Engenheiro de Software Web completo.</p>
 
+[![Marilzon Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marilzon&langs_count=5&hide=json,properties,stylus&custom_title=O%20que%20ando%20codando!&theme=dark&time_range=last_year)](https://wakatime.com/@Marilzon)
+
 - 💬 E-mail **maxmaril@hotmail.com**
 - 📄 Linkedin [linkedin/in/Marilzon](https://www.linkedin.com/in/marilzon/)
 
