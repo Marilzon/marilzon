@@ -5,6 +5,4 @@
 - 💬 E-mail **maxmaril@hotmail.com**
 - 📄 Linkedin [linkedin/in/Marilzon](https://www.linkedin.com/in/marilzon/)
 
-[![Marilzon Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marilzon&langs_count=10&hide=json,properties,stylus&custom_title=O%20que%20ando%20codando!&theme=dark&time_range=last_year)](https://wakatime.com/@Marilzon)
-
-- 📌 Confira meus projetos pessoais na aba abaixo!
+<figure><embed src="https://wakatime.com/share/@marilzon/dd619962-0ca4-4189-b8a5-957dc18b12ec.svg"></embed></figure>
