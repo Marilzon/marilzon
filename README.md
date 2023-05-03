@@ -5,4 +5,4 @@
 - 💬 E-mail **maxmaril@hotmail.com**
 - 📄 Linkedin [linkedin/in/Marilzon](https://www.linkedin.com/in/marilzon/)
 
-<figure><embed src="https://wakatime.com/share/@marilzon/dd619962-0ca4-4189-b8a5-957dc18b12ec.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@marilzon/64460914-d985-4a1e-b73c-5ca65d0aeaef.png" /></a>
