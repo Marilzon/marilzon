@@ -2,7 +2,7 @@
 
 Atualmente consultor de sistemas e desenvolvedor de software com experiência em diversas ferramentas e tecnologias. Minha especialidade está nas linguagens de programação C++, Python e Javascript, juntamente com suas bibliotecas e frameworks.
 
-Comecei minha jornada na programação em 2017, quando aprendi sobre bancos de dados e programação web usando Javascript e jQuery. Em 2020, decidi investir pesadamente em minha carreira para me tornar um desenvolvedor completo. Hoje, continuo estudando intensivamente para dominar a cultura DevOps e aplicativos em grande escala com Node.js.
+Comecei minha jornada na programação em 2017, quando aprendi sobre bancos de dados e programação web usando Javascript e jQuery. Em 2020, decidi investir pesadamente em minha carreira para me tornar um desenvolvedor completo. Hoje, continuo estudando intensivamente para dominar a cultura DevOps e aplicações frontend/backend em grande escala com Node.js.
 
 ## Ferramentas que possuo conhecimento e produtividade.
 
