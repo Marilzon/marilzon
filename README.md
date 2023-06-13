@@ -23,7 +23,3 @@ Sinta-se à vontade para entrar em contato comigo via:
 
 - 💬 E-mail **maxmaril@hotmail.com**
 - 📄 LinkedIn [linkedin/in/Marilzon](https://www.linkedin.com/in/marilzon/)
-
-Confira também minhas estatísticas no Wakatime:
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@marilzon/7dec0c80-01a4-410f-b7cb-8315de9b6fbe.png" /></a>
