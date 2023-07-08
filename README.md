@@ -7,6 +7,6 @@
   </div>
   <div style="width: 100%; text-align: center;">
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@marilzon/d2e55a0b-cb05-42d1-aa6b-ff48ec36d25d.png"
-      style="width: 560px; height: auto;" /></a>
+      style="width: 100%; height: auto;" /></a>
   </div>
 </div>
