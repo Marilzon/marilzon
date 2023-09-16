@@ -1,3 +1,1 @@
-# 💻 Modern C++, Heavy Coding and Data Seeker...
-
-![Wakatime Stats](https://wakatime.com/share/@marilzon/0fbb3af7-1b8f-4c6a-bd17-e5389d89db63.svg)
+# 💻 Sou um analista de desenvolvimento de sistemas apaixonado em desenvolvimento de ferramentas voltadas a área de analise de dados e tecnologia web3.
