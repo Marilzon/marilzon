@@ -1,3 +1,5 @@
-💻 Sou um analista de desenvolvimento de sistemas apaixonado em desenvolvimento de ferramentas voltadas à área de análise de dados e tecnologia web3.
+💻 Sou um Analista de Desenvolvimento de Sistemas e Desenvolvedor Web3.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marilzon&exclude_repo=python-utils&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<figure>
+  <img src="https://wakatime.com/share/@marilzon/f3dca2f5-9f42-4273-bd2f-037074cd029f.svg">
+</figure>
