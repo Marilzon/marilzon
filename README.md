@@ -1,1 +1,1 @@
-More things, one objective, Think.
+Você apenas não possuía a informação que você precisava para explicar a si mesmo.
